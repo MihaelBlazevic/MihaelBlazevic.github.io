@@ -2,4 +2,4 @@
 
 Ovdje će se nalaziti HTML/CSS, možda i js koji čini moju osobnu web stranicu.
 
-Adresa web stranice jest https://MihaelBlazevic.github.io.git
+Adresa web stranice jest https://MihaelBlazevic.github.io
